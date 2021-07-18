@@ -1,2 +1,2 @@
 # Smartcode
-This repo contains code part.
+This repo contains programs based on data structures and algorithms
