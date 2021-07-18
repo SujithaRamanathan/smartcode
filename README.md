@@ -1,2 +1,2 @@
 # smartcode
-c project
+This repo contains code part.
